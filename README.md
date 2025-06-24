@@ -9,8 +9,8 @@ After selecting an option, you can visualize the result
 
 <div align="center">
   <a href="https://discord.gg/ymcMaSnq7d" rel="nofollow">
-      <img src="https://img.shields.io/discord/1121138836525813760?color=azure&labelColor=6DC2A4&logo=discord&logoColor=black&label=Join the discord server&style=for-the-badge" data-canonical-src="https://img.shields.io/discord/1121138836525813760">
-    </a>
+    <img src="https://img.shields.io/discord/1121138836525813760?color=azure&labelColor=6DC2A4&logo=discord&logoColor=black&label=Join%20the%20discord%20server&style=for-the-badge" alt="Discord">
+  </a>
 </div>
 
 ## When should I use this plugin?
