@@ -9,9 +9,8 @@ function M.run_makefile(option)
     .. option -- run
     .. " && echo make "
     .. option -- echo
-    .. " && echo '"
+    .. " && echo "
     .. final_message
-    .. "'"
   if vim.fn.has("win32") == 1 then full_cmd = 'cmd /c "' .. full_cmd .. '"' end
 
   local task = overseer.new_task({
